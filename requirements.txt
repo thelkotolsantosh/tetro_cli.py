@@ -1,0 +1,2 @@
+# No external dependencies
+# curses is built into Python on Linux
